@@ -173,7 +173,7 @@ def DescriptoresAACalculo(input_seq):
 
 
 #Descriptores de frecuencia de n-gramas de aminoacidos DEL PAQUETE MODLAMP
-from modlamp.core import ngrams_apd
+from modlamp_modified.core import ngrams_apd
 
 
 def DescriptoresKmerCalculo(input_seq): 
